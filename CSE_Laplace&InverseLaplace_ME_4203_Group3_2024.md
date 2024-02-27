@@ -9,7 +9,7 @@ COMPARISON OF MANUAL SOLUTION AND CODE
 ![6](https://github.com/Lenyilagan/G_3_Assignment_2024/assets/161393545/52fdbc20-1efa-4cc8-b4c2-9c0e67d8054b)
 
 
-
+Conclusion:
 
 
 
