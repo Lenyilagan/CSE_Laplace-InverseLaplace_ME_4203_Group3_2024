@@ -8,16 +8,7 @@ COMPARISON OF MANUAL SOLUTION AND CODE
 ![5](https://github.com/Lenyilagan/G_3_Assignment_2024/assets/160506092/05a5a040-0674-4fb5-9e41-27a100e38af9)
 
 
-
-
-
-
-
-
-
-
-
-CODE
+CODE (Assignment 1, I)
 
     % Clear
     clear
@@ -38,33 +29,6 @@ CODE
     f3 = (t + 1)*(t + 2);
     F3 = laplace(f3)
     pretty(F3)
-    
-    %% Inverse Laplace Transform (Assignment 1, II)
-    F4 = (8 - 3*s + s^2) / (s^3)
-    f4 = ilaplace(F4)
-    pretty(f4)
-    
-    F5 = (5 / (s -2)) - (4*s / (s^2 + 9));
-    f5 = ilaplace(F5)
-    pretty(f5)
-    
-    F6 = 7 / (s^2 + 6);
-    f6 = ilaplace(F6)
-    pretty(f6)
-    
-    %% Assignment 2
-    
-    F7 = 1 / (s*(s^2 + 2*s + 2));
-    f7 = ilaplace(F7)
-    pretty(f7)
-    
-    F8 = (5*(s + 2)) / ((s^2)*(s + 1)*(s + 3));
-    f8 = ilaplace(F8)
-    pretty(f8)
-    
-    F9 = ((s^4 + 2*s^3 + 3*s^2 + 4*s + 5)) / (s*(s + 1));
-    f9 = ilaplace(F9)
-    pretty(f9)
 
 Code Results
 
