@@ -8,10 +8,8 @@ COMPARISON OF MANUAL SOLUTION AND CODE
 ![5](https://github.com/Lenyilagan/G_3_Assignment_2024/assets/160506092/05a5a040-0674-4fb5-9e41-27a100e38af9)
 ![6](https://github.com/Lenyilagan/G_3_Assignment_2024/assets/161393545/52fdbc20-1efa-4cc8-b4c2-9c0e67d8054b)
 
-
-Conclusion:
-
-
+CONCLUSION:
+	    When comparing MATLAB codes to manual computation, it is clear that both methods are fundamentally similar and can yield the same outcomes. MATLAB utilizes algorithms and mathematical procedures that replicate manual computation methods, guaranteeing consistency in the solutions obtained. The main difference is in the formatting of the answers. MATLAB streamlines the procedure, simplifying the answer automatically. This implies that unnecessary processes or interim outcomes are frequently left out, resulting in a more efficient solution presentation. On the other hand, manual computing is a hands-on method where each step and calculation is openly stated, offering a detailed account of the solution process. Although the formatting may differ, the core correctness and alignment of MATLAB codes and manual computation remain consistent, allowing users to choose the presentation style that fits their preferences or needs.
 
 CODE (Assignment 1, I)
 
