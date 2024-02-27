@@ -4,8 +4,11 @@ COMPARISON OF MANUAL SOLUTION AND CODE
 ![1](https://github.com/Lenyilagan/G_3_Assignment_2024/assets/159031775/e888d58b-3fb2-4a15-83e5-4e8d9433ac55)
 ![2](https://github.com/Lenyilagan/G_3_Assignment_2024/assets/159031775/688c4170-2098-4971-a9da-338031307352)
 ![3](https://github.com/Lenyilagan/G_3_Assignment_2024/assets/159031775/c3a4e4bc-94c5-4aca-99b4-d5f959b008d5)
-![4](https://github.com/Lenyilagan/G_3_Assignment_2024/assets/160506092/8be95e29-7251-4a06-b1e5-e3d9a876bd3b)
-![5](https://github.com/Lenyilagan/G_3_Assignment_2024/assets/160506092/a3179a7e-978f-4f48-b601-79e57f4c0182)
+![4](https://github.com/Lenyilagan/G_3_Assignment_2024/assets/160506092/7c4d8edb-333b-42fd-96ff-3a5ccf082853)
+![5](https://github.com/Lenyilagan/G_3_Assignment_2024/assets/160506092/05a5a040-0674-4fb5-9e41-27a100e38af9)
+
+
+
 
 
 
