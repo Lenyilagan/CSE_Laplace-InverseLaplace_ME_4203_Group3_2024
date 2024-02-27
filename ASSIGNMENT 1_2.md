@@ -16,8 +16,12 @@ MALABANAN, KENNY BHEL M.
 ![Malabanan, Kenny Bhel M  - Assignment 1 2](https://github.com/Lenyilagan/G_3_Assignment_2024/assets/160506092/f8c9c16d-d683-4817-bad0-566f0535f229)
 
 MALIBIRAN, MARK VAN DOREN E.
+![Malibiran, Mark Van Doren E  - Assignment 1 1](https://github.com/Lenyilagan/G_3_Assignment_2024/assets/161393545/7aa23a31-0fb3-469e-8ceb-8842f0033a08)
+![Malibiran, Mark Van Doren E  - Assignment 1 2](https://github.com/Lenyilagan/G_3_Assignment_2024/assets/161393545/f33bf7ef-ef55-4b70-a8f0-2ca3184319b6)
+![Malibiran, Mark Van Doren E  - Assignment 1 3](https://github.com/Lenyilagan/G_3_Assignment_2024/assets/161393545/30c2435a-0665-4239-8f90-dd04560ff8db)
 
 Assignment 2
+
 ILAGAN, LENY D.
 
 MAGBOJOS, CHERMILYN F.
@@ -29,9 +33,6 @@ MALABANAN, KENNY BHEL M.
 ![Malabanan, Kenny Bhel M  - Assignment 2 2](https://github.com/Lenyilagan/G_3_Assignment_2024/assets/160506092/8ef627d0-dbb2-4ebc-9926-855dc444843e)
 
 MALIBIRAN, MARK VAN DOREN E.
-
-
-
-
-
-
+![Malibiran, Mark Van Doren E  - Assignment 2 1](https://github.com/Lenyilagan/G_3_Assignment_2024/assets/161393545/1d16b60d-cd72-42c0-8aef-bb681f63bedc)
+![Malibiran, Mark Van Doren E  - Assignment 2 2](https://github.com/Lenyilagan/G_3_Assignment_2024/assets/161393545/f132575e-686c-4a98-9d00-0cc64f34f0f7)
+![Malibiran, Mark Van Doren E  - Assignment 2 3](https://github.com/Lenyilagan/G_3_Assignment_2024/assets/161393545/537f9a83-566e-47a6-8455-f6998c3e02e3)
