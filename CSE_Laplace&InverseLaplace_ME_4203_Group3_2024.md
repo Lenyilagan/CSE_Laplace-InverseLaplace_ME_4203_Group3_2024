@@ -117,5 +117,58 @@ Code Results
     7 sqrt(6) sin(sqrt(6) t)
     ------------------------
                 6
+                
+CODE (Assignment 2)
 
+    % Clear
+    clear
+    clc
+    close all
+    
+    syms s, syms t
+    
+    %% Assignment 2
+    
+    F7 = 1 / (s*(s^2 + 2*s + 2));
+    f7 = ilaplace(F7)
+    pretty(f7)
+    
+    F8 = (5*(s + 2)) / ((s^2)*(s + 1)*(s + 3));
+    f8 = ilaplace(F8)
+    pretty(f8)
+    
+    F9 = ((s^4 + 2*s^3 + 3*s^2 + 4*s + 5)) / (s*(s + 1));
+    f9 = ilaplace(F9)
+    pretty(f9)
+
+
+Code Results
+
+    F4 =
+     
+    (s^2 - 3*s + 8)/s^3
+     
+     
+    f4 =
+     
+    4*t^2 - 3*t + 1
+     
+       2
+    4 t  - 3 t + 1
+    
+     
+    f5 =
+     
+    5*exp(2*t) - 4*cos(3*t)
+     
+    exp(2 t) 5 - cos(3 t) 4
+    
+     
+    f6 =
+     
+    (7*6^(1/2)*sin(6^(1/2)*t))/6
+     
+    7 sqrt(6) sin(sqrt(6) t)
+    ------------------------
+                6
     
