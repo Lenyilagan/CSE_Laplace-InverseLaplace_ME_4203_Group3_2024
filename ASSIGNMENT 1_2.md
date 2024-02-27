@@ -12,6 +12,8 @@ MAGBOJOS, CHERMILYN F.
 ![Magbojos, Chermilyn F  - Assignment 1](https://github.com/Lenyilagan/G_3_Assignment_2024/assets/160560665/8bb1a8b2-d2d0-4106-8a90-db3ece6bf60d)
 
 MALABANAN, KENNY BHEL M.
+![Malabanan, Kenny Bhel M  - Assignment 1 1](https://github.com/Lenyilagan/G_3_Assignment_2024/assets/160506092/1507b9da-9621-4537-acf1-c6d21c3daebc)
+![Malabanan, Kenny Bhel M  - Assignment 1 2](https://github.com/Lenyilagan/G_3_Assignment_2024/assets/160506092/f8c9c16d-d683-4817-bad0-566f0535f229)
 
 MALIBIRAN, MARK VAN DOREN E.
 
@@ -23,5 +25,13 @@ MAGBOJOS, CHERMILYN F.
 ![Magbojos, Chermilyn F  - Assignment 2 2](https://github.com/Lenyilagan/G_3_Assignment_2024/assets/160560665/acfc3c22-ba70-4dc5-a023-be74ef1d1b4f)
 
 MALABANAN, KENNY BHEL M.
+![Malabanan, Kenny Bhel M  - Assignment 2 1](https://github.com/Lenyilagan/G_3_Assignment_2024/assets/160506092/45d6d9ca-b875-4dad-8712-03873b7f9fa7)
+![Malabanan, Kenny Bhel M  - Assignment 2 2](https://github.com/Lenyilagan/G_3_Assignment_2024/assets/160506092/8ef627d0-dbb2-4ebc-9926-855dc444843e)
 
 MALIBIRAN, MARK VAN DOREN E.
+
+
+
+
+
+
