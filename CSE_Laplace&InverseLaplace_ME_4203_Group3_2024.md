@@ -10,7 +10,7 @@ COMPARISON OF MANUAL SOLUTION AND CODE
 ![7](https://github.com/Lenyilagan/G_3_Assignment_2024/assets/161393545/91038a0f-84e7-45c5-8e7e-5248735e4384)
 ![Malibiran, Mark Van Doren E  - Assignment 1 2](https://github.com/Lenyilagan/G_3_Assignment_2024/assets/161393545/b322b940-dd95-4bf0-896a-21868883a650)
 ![Malibiran, Mark Van Doren E  - Assignment 1 3](https://github.com/Lenyilagan/G_3_Assignment_2024/assets/161393545/d6a8e2e1-7721-4711-8fa9-2055610ddeb6)
-![Malibiran, Mark Van Doren E  - Assignment 2 1](https://github.com/Lenyilagan/G_3_Assignment_2024/assets/161393545/b87c6460-6d58-40c1-a1d3-f478b9672685)
+
 
 
 CODE (Assignment 1, I)
