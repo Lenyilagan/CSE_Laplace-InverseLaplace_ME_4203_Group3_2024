@@ -65,10 +65,62 @@ Code Results
            2         3
           s         s
 
+CODE (Assignment 1, II)
+
+    % Clear
+    clear
+    clc
+    close all
+    
+    syms s, syms t
+    
+    %% Inverse Laplace Transform (Assignment 1, II)
+    F4 = (8 - 3*s + s^2) / (s^3)
+    f4 = ilaplace(F4)
+    pretty(f4)
+    
+    F5 = (5 / (s -2)) - (4*s / (s^2 + 9));
+    f5 = ilaplace(F5)
+    pretty(f5)
+    
+    F6 = 7 / (s^2 + 6);
+    f6 = ilaplace(F6)
+    pretty(f6)
+
+
+Code Results
+
+    F1 =
+     
+    10/(s^2 + 4) - 1/(s + 3) + 3/s
+     
+      10       1     3
+    ------ - ----- + -
+     2       s + 3   s
+    s  + 4
     
      
-    f9 =
+    F2 =
      
-    2*dirac(t) - 3*exp(-t) + dirac(1, t) + dirac(2, t) + 5
+    (12*(s/4 + 1))/s^2 - 3/(s - 2) + 252/s^4
      
-    2 dirac(t) - 3 exp(-t) + dirac'(t) + dirac''(t) + 5
+    / s     \
+    | - + 1 | 12
+    \ 4     /        3     252
+    ------------ - ----- + ---
+          2        s - 2     4
+         s                  s
+    
+     
+    F3 =
+     
+    (3*((2*s)/3 + 1))/s^2 + 2/s^3
+     
+    / 2 s     \
+    | --- + 1 | 3
+    \  3      /      2
+    ------------- + --
+           2         3
+          s         s
+
+    
