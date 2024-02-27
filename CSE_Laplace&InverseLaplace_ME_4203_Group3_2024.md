@@ -1,9 +1,17 @@
 LABORATORY 1: Laplace and Inverse Laplace 
 
+COMPARISON OF MANUAL SOLUTION AND CODE
+![1](https://github.com/Lenyilagan/G_3_Assignment_2024/assets/159031775/e888d58b-3fb2-4a15-83e5-4e8d9433ac55)
+![2](https://github.com/Lenyilagan/G_3_Assignment_2024/assets/159031775/688c4170-2098-4971-a9da-338031307352)
+![3](https://github.com/Lenyilagan/G_3_Assignment_2024/assets/159031775/c3a4e4bc-94c5-4aca-99b4-d5f959b008d5)
 
 
 
-Code
+
+
+
+
+CODE
 
     % Clear
     clear
