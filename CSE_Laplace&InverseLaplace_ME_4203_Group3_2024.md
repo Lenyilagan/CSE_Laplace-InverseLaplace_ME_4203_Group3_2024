@@ -144,31 +144,27 @@ CODE (Assignment 2)
 
 Code Results
 
-    F4 =
+    f7 =
      
-    (s^2 - 3*s + 8)/s^3
+    1/2 - (exp(-t)*(cos(t) + sin(t)))/2
      
-     
-    f4 =
-     
-    4*t^2 - 3*t + 1
-     
-       2
-    4 t  - 3 t + 1
+    1   exp(-t) (cos(t) + sin(t))
+    - - -------------------------
+    2               2
     
      
-    f5 =
+    f8 =
      
-    5*exp(2*t) - 4*cos(3*t)
+    (10*t)/3 + (5*exp(-t))/2 + (5*exp(-3*t))/18 - 25/9
      
-    exp(2 t) 5 - cos(3 t) 4
+    10 t   5 exp(-t)   exp(-3 t) 5   25
+    ---- + --------- + ----------- - --
+      3        2            18        9
     
      
-    f6 =
+    f9 =
      
-    (7*6^(1/2)*sin(6^(1/2)*t))/6
+    2*dirac(t) - 3*exp(-t) + dirac(1, t) + dirac(2, t) + 5
      
-    7 sqrt(6) sin(sqrt(6) t)
-    ------------------------
-                6
+    2 dirac(t) - 3 exp(-t) + dirac'(t) + dirac''(t) + 5
     
