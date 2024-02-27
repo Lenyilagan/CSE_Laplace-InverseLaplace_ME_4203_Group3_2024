@@ -6,6 +6,7 @@ COMPARISON OF MANUAL SOLUTION AND CODE
 ![3](https://github.com/Lenyilagan/G_3_Assignment_2024/assets/159031775/c3a4e4bc-94c5-4aca-99b4-d5f959b008d5)
 ![4](https://github.com/Lenyilagan/G_3_Assignment_2024/assets/160506092/7c4d8edb-333b-42fd-96ff-3a5ccf082853)
 ![5](https://github.com/Lenyilagan/G_3_Assignment_2024/assets/160506092/05a5a040-0674-4fb5-9e41-27a100e38af9)
+![6](https://github.com/Lenyilagan/G_3_Assignment_2024/assets/161393545/52fdbc20-1efa-4cc8-b4c2-9c0e67d8054b)
 
 
 CODE (Assignment 1, I)
