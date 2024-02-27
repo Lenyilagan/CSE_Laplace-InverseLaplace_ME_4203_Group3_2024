@@ -7,6 +7,12 @@ COMPARISON OF MANUAL SOLUTION AND CODE
 ![4](https://github.com/Lenyilagan/G_3_Assignment_2024/assets/160506092/7c4d8edb-333b-42fd-96ff-3a5ccf082853)
 ![5](https://github.com/Lenyilagan/G_3_Assignment_2024/assets/160506092/05a5a040-0674-4fb5-9e41-27a100e38af9)
 ![6](https://github.com/Lenyilagan/G_3_Assignment_2024/assets/161393545/52fdbc20-1efa-4cc8-b4c2-9c0e67d8054b)
+![7](https://github.com/Lenyilagan/G_3_Assignment_2024/assets/161393545/91038a0f-84e7-45c5-8e7e-5248735e4384)
+![Malibiran, Mark Van Doren E  - Assignment 1 2](https://github.com/Lenyilagan/G_3_Assignment_2024/assets/161393545/b322b940-dd95-4bf0-896a-21868883a650)
+![Malibiran, Mark Van Doren E  - Assignment 1 3](https://github.com/Lenyilagan/G_3_Assignment_2024/assets/161393545/d6a8e2e1-7721-4711-8fa9-2055610ddeb6)
+![Malibiran, Mark Van Doren E  - Assignment 2 1](https://github.com/Lenyilagan/G_3_Assignment_2024/assets/161393545/b87c6460-6d58-40c1-a1d3-f478b9672685)
+![Malibiran, Mark Van Doren E  - Assignment 2 2](https://github.com/Lenyilagan/G_3_Assignment_2024/assets/161393545/1c384699-fc92-4bc0-b7bb-7d523a1b1316)
+![Malibiran, Mark Van Doren E  - Assignment 2 3](https://github.com/Lenyilagan/G_3_Assignment_2024/assets/161393545/a8c77004-8cc1-4d72-9de9-50d7c1528d26)
 
 
 CODE (Assignment 1, I)
