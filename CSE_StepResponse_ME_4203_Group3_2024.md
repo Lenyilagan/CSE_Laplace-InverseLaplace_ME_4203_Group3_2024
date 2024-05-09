@@ -12,6 +12,22 @@ MALIBIRAN, MARK VAN DOREN
    ![image](https://github.com/Lenyilagan/G_3_Assignment_2024/assets/160560665/457b2e8c-a0f9-497c-af13-cc8e14115025)
 
 
+**Matlab Code**
+  
+      % clear
+      clear
+      clc
+      close all
+      
+      %% Second Order Critically Damped System
+      % Asssume value of Wn = 1 since underdamped is =1
+      G_num = [1]
+      G_den = [1 2 1] 
+      
+      G = tf(G_num, G_den)
+      
+      step(G,0:0.1:20)
+
 
   
   **Step Response**
