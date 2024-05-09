@@ -34,12 +34,12 @@ MALIBIRAN, MARK VAN DOREN
     
   **Simulink Model**
 
-   ![image](https://github.com/Lenyilagan/G_3_Assignment_2024/assets/160560665/5ab86909-2b27-4fd4-9f43-e63076a98c90)
+  
 
 
    **Scope Response**
 
-   ![image](https://github.com/Lenyilagan/G_3_Assignment_2024/assets/159031775/d9a05cfc-cec7-4908-820d-188970c1c33c)
+   
 
 -------------------------------------------------------
 
