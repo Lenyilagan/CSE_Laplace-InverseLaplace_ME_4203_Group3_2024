@@ -149,7 +149,8 @@ MALIBIRAN, MARK VAN DOREN
 
   **Step Response**
 
-   ![image](https://github.com/Lenyilagan/G_3_Assignment_2024/assets/159031775/463de68e-3337-4fdb-bc5e-3b2de4b3ca7f)
+   ![image](https://github.com/Lenyilagan/G_3_Assignment_2024/assets/160560665/1adc21e2-dc3a-42d8-8274-b0d74537cd33)
+
 
 
     
@@ -160,7 +161,8 @@ MALIBIRAN, MARK VAN DOREN
 
    **Scope Response**
 
-   ![image](https://github.com/Lenyilagan/G_3_Assignment_2024/assets/159031775/b81f282f-abe1-4622-931b-654275863f2a)
+  ![image](https://github.com/Lenyilagan/G_3_Assignment_2024/assets/160560665/3604e565-54eb-466a-a399-c725fb54d242)
+
 
 
 
