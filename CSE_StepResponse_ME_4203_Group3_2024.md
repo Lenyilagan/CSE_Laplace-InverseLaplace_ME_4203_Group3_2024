@@ -29,7 +29,7 @@ MALIBIRAN, MARK VAN DOREN
 
   **Step Response**
 
-   ![image](https://github.com/Lenyilagan/G_3_Assignment_2024/assets/159031775/98a7ee98-2a44-40ee-8f44-0d6c81f3196c)
+   ![image](https://github.com/Lenyilagan/G_3_Assignment_2024/assets/160560665/ced0db22-dae0-46f5-9b6c-801e748d3315)
 
     
   **Simulink Model**
