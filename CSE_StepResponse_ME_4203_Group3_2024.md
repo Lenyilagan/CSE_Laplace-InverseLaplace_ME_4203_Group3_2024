@@ -9,7 +9,7 @@ MALIBIRAN, MARK VAN DOREN
 
 **3. Second Order Critically Damped System**
 
-   ![image](https://github.com/Lenyilagan/G_3_Assignment_2024/assets/159031775/d9c2c5d8-e26a-4128-9421-550fb15e909f)
+   ![image](https://github.com/Lenyilagan/G_3_Assignment_2024/assets/160560665/457b2e8c-a0f9-497c-af13-cc8e14115025)![image](https://github.com/Lenyilagan/G_3_Assignment_2024/assets/159031775/d9c2c5d8-e26a-4128-9421-550fb15e909f)
 
   **Matlab Code**
   
@@ -34,13 +34,45 @@ MALIBIRAN, MARK VAN DOREN
     
   **Simulink Model**
 
-  
+  ![image](https://github.com/Lenyilagan/G_3_Assignment_2024/assets/160560665/eaf79920-28e3-4153-8b71-d21a6aac377e)
+
 
 
    **Scope Response**
+      
+   ![image](https://github.com/Lenyilagan/G_3_Assignment_2024/assets/160560665/a07c0488-467e-4827-b56c-bff3aa27e26b)
 
+
+
+**4. First Order System**
+
+  ![image](https://github.com/Lenyilagan/G_3_Assignment_2024/assets/160560665/3f521c7c-50c5-4640-864d-b47985a5b465)
+
+
+  **Matlab Code**
+  
+      % clear
+      clear
+      clc
+      close all
+      
+     %% Asssume value of T = 2
+      G_num = [1]
+      G_den = [2 1] 
    
+      G = tf(G_num, G_den)
+      
+      step(G,0:0.1:20)
+      
 
+  **Step Response**
+
+   ![image](https://github.com/Lenyilagan/G_3_Assignment_2024/assets/160560665/ced0db22-dae0-46f5-9b6c-801e748d3315)
+
+    
+
+      
+  
 -------------------------------------------------------
 
 
