@@ -77,7 +77,10 @@ MALIBIRAN, MARK VAN DOREN
 
 
 
- 
+   **Scope Response**
+      
+   ![image](https://github.com/Lenyilagan/G_3_Assignment_2024/assets/160560665/a07c0488-467e-4827-b56c-bff3aa27e26b)
+      
   
 -------------------------------------------------------
 
