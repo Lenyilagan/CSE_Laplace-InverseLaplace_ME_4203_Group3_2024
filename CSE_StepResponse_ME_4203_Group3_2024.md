@@ -226,3 +226,61 @@ MALIBIRAN, MARK VAN DOREN
 
     
 MALABANAN, KENNY BHEL M. 
+
+**7. Plant with Time Delay**
+
+  
+
+**Matlab Code**
+  
+      % clear
+      clear
+      clc
+      close all
+      
+      
+
+
+  
+  **Step Response**
+
+  
+
+    
+  **Simulink Model**
+
+
+
+
+
+   **Scope Response**
+
+
+
+   **8. Nonlinear System Approxination**
+
+  
+
+**Matlab Code**
+  
+      % clear
+      clear
+      clc
+      close all
+      
+      
+
+
+  
+  **Step Response**
+
+  
+
+    
+  **Simulink Model**
+
+
+
+
+
+   **Scope Response**
