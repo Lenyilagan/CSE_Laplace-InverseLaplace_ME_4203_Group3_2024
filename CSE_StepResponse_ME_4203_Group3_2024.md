@@ -7,7 +7,9 @@ MAGBOJOS, CHERMILYN F.
 
 
 
-**-------------------------------------------------------**
+-------------------------------------------------------
+
+
 **ILAGAN, LENY D.**
 
 
@@ -30,7 +32,9 @@ MAGBOJOS, CHERMILYN F.
       
       step(G,0:0.1:20)
 
- **Step Response**
+  **Step Response**
+  
+ ![image](https://github.com/Lenyilagan/G_3_Assignment_2024/assets/159031775/98a7ee98-2a44-40ee-8f44-0d6c81f3196c)
 
     
 
