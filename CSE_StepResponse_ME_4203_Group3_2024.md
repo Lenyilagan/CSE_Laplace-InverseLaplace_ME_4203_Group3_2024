@@ -2,7 +2,7 @@ LABORATORY 2: STEP RESPONSE
 
 MALIBIRAN, MARK VAN DOREN
 
-**1. Second Order Critically Damped System**
+**1. Second Order  Underdamped System**
 
   
 
@@ -31,7 +31,33 @@ MALIBIRAN, MARK VAN DOREN
    **Scope Response**
       
 
+**2. Second Order Overdamped System**
 
+  
+
+**Matlab Code**
+  
+      % clear
+      clear
+      clc
+      close all
+      
+      
+
+
+  
+  **Step Response**
+
+  
+
+    
+  **Simulink Model**
+
+
+
+
+
+   **Scope Response**
 
 -------------------------------------------------------
 
