@@ -47,6 +47,40 @@ MAGBOJOS, CHERMILYN F.
 
 
 
+**6. Electrical Filter with Multiple Poles**
+
+   ![image](https://github.com/Lenyilagan/G_3_Assignment_2024/assets/159031775/076121cb-3f47-4a12-9e89-90ff3be83e02)
+
+
+  **Matlab Code**
+     % clear
+      clear
+      clc
+      close all
+      
+      %% electrical Filter with Multiple Poles
+      %% Modeling an electrical filter with multiple poles
+      G_num = [4 3 2 1]
+      G_den = [1 2 3 4 1] 
+      
+      G = tf(G_num, G_den)
+      
+      step(G,0:0.1:20)
+
+  **Step Response**
+
+   ![image](https://github.com/Lenyilagan/G_3_Assignment_2024/assets/159031775/98a7ee98-2a44-40ee-8f44-0d6c81f3196c)
+
+    
+  **Simulink Model**
+
+   ![image](https://github.com/Lenyilagan/G_3_Assignment_2024/assets/159031775/96380053-4388-4839-96f6-4889d2ab3016)
+
+   **Scope Response**
+
+   ![image](https://github.com/Lenyilagan/G_3_Assignment_2024/assets/159031775/d9a05cfc-cec7-4908-820d-188970c1c33c)
+
+
 
     
 MALABANAN, KENNY BHEL M. 
