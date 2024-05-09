@@ -71,7 +71,13 @@ MALIBIRAN, MARK VAN DOREN
 
     
 
-      
+  **Simulink Model**
+
+  ![image](https://github.com/Lenyilagan/G_3_Assignment_2024/assets/160560665/5e670dd6-33c6-4c85-a081-705a90a0a8ce)
+
+
+
+ 
   
 -------------------------------------------------------
 
