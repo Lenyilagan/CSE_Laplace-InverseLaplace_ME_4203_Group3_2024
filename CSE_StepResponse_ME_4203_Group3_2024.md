@@ -8,14 +8,12 @@ MAGBOJOS, CHERMILYN F.
 
 **ILAGAN, LENY D.**
 
-  5. Resonant System
 
-    ![image](https://github.com/Lenyilagan/G_3_Assignment_2024/assets/159031775/d9c2c5d8-e26a-4128-9421-550fb15e909f)
+  **5. Resonant System**
 
-
+  ![image](https://github.com/Lenyilagan/G_3_Assignment_2024/assets/159031775/d9c2c5d8-e26a-4128-9421-550fb15e909f)
 
   **Matlab Code**
-
       % clear
       clear
       clc
