@@ -1,6 +1,8 @@
 LABORATORY 2: STEP RESPONSE
 
-MALIBIRAN, MARK VAN DOREN
+-------------------------------------------------------
+
+**MALIBIRAN, MARK VAN DOREN**
 
 **1. Second Order  Underdamped System**
 
@@ -223,9 +225,10 @@ MALIBIRAN, MARK VAN DOREN
 
 
 
+-------------------------------------------------------
 
-    
-MALABANAN, KENNY BHEL M. 
+
+**MALABANAN, KENNY BHEL M.**
 
 **7. Plant with Time Delay**
 
