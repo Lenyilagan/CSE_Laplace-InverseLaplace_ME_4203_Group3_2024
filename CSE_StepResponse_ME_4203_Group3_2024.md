@@ -75,7 +75,7 @@ LABORATORY 2: STEP RESPONSE
   
   **Step Response**
 
-  
+    ![Malibiran, Mark Van Doren E._No.2](https://github.com/Lenyilagan/G_3_Assignment_2024/assets/161393545/168a0236-7dbe-43af-aba1-c0dbd49468db)
 
     
   **Simulink Model**
