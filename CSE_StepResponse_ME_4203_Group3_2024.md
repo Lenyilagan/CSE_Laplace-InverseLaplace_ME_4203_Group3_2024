@@ -323,13 +323,14 @@ LABORATORY 2: STEP RESPONSE
   
   **Step Response**
 
-  
+![image](https://github.com/Lenyilagan/G_3_Assignment_2024/assets/160506092/e54b369b-4bb3-4986-b80c-26648a86917f)
 
-    
+  
   **Simulink Model**
 
-
-
+![image](https://github.com/Lenyilagan/G_3_Assignment_2024/assets/160506092/91c4b6bd-57a2-4b1e-996d-780fe25f33d0)
 
 
    **Scope Response**
+
+![image](https://github.com/Lenyilagan/G_3_Assignment_2024/assets/160506092/a62830dd-e6f9-4c15-b7d5-2780ed9090f6)
