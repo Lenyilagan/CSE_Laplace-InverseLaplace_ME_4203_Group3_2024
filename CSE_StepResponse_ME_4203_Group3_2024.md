@@ -33,7 +33,7 @@ LABORATORY 2: STEP RESPONSE
   
   **Step Response**
 
-  
+  ![Malibiran, Mark Van Doren E._No.1](https://github.com/Lenyilagan/G_3_Assignment_2024/assets/161393545/924ac5d4-840d-4cbd-baf9-f75cf354d5b7)
 
     
   **Simulink Model**
