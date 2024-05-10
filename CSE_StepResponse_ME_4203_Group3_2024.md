@@ -6,7 +6,7 @@ LABORATORY 2: STEP RESPONSE
 
 **1. Second Order  Underdamped System**
 
-  
+  ![Malibiran, Mark Van Doren E._No.1](https://github.com/Lenyilagan/G_3_Assignment_2024/assets/161393545/2e03be0b-aea2-469a-a076-a9dc7d7a0fa2)
 
 **Matlab Code**
   
