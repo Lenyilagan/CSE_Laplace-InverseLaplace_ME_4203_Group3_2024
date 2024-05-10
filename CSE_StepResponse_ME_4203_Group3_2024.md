@@ -256,6 +256,7 @@ LABORATORY 2: STEP RESPONSE
 **MALABANAN, KENNY BHEL M.**
 
 **7. Plant with Time Delay**
+![image](https://github.com/Lenyilagan/G_3_Assignment_2024/assets/160506092/38c48c97-3c9d-4135-b40f-7f8fa0aabd42)
 
   
 
