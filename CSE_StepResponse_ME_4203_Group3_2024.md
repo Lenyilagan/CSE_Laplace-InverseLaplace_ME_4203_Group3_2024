@@ -48,7 +48,7 @@ LABORATORY 2: STEP RESPONSE
 
 **2. Second Order Overdamped System**
 
-  
+  ![Malibiran, Mark Van Doren E._No.2](https://github.com/Lenyilagan/G_3_Assignment_2024/assets/161393545/e35c0571-6dac-434e-b0a7-632572fc4856)
 
 **Matlab Code**
   
