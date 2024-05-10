@@ -85,7 +85,7 @@ LABORATORY 2: STEP RESPONSE
 
    **Scope Response**
 
--------------------------------------------------------
+    ![Malibiran, Mark Van Doren E._No.2](https://github.com/Lenyilagan/G_3_Assignment_2024/assets/161393545/5f48d34d-dccc-44d8-b45c-66d38090ceb1)
 
 
 **MAGBOJOS, CHERMILYN F.**
