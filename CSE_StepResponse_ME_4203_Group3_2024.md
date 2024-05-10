@@ -80,6 +80,7 @@ LABORATORY 2: STEP RESPONSE
     
   **Simulink Model**
 
+  ![Malibiran, Mark Van Doren_No.2](https://github.com/Lenyilagan/G_3_Assignment_2024/assets/161393545/d83b08e0-5fef-445c-8084-c7da323cb3f0)
 
 
    **Scope Response**
