@@ -38,13 +38,13 @@ LABORATORY 2: STEP RESPONSE
     
   **Simulink Model**
 
-![Malibiran, Mark Van Doren E._No.1](https://github.com/Lenyilagan/G_3_Assignment_2024/assets/161393545/de945630-cc45-412f-8f26-97517e715195)
-
-
+  ![Malibiran, Mark Van Doren E._No.1](https://github.com/Lenyilagan/G_3_Assignment_2024/assets/161393545/de945630-cc45-412f-8f26-97517e715195)
 
 
    **Scope Response**
-      
+
+  ![Malibiran, Mark Van Doren E._No.1](https://github.com/Lenyilagan/G_3_Assignment_2024/assets/161393545/c5da5c13-a840-43d6-b6a7-36c141f20660)
+
 
 **2. Second Order Overdamped System**
 
