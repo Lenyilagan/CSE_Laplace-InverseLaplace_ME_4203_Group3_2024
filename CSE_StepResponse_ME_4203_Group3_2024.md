@@ -2,7 +2,7 @@ LABORATORY 2: STEP RESPONSE
 
 -------------------------------------------------------
 
-**MALIBIRAN, MARK VAN DOREN**
+**MALIBIRAN, MARK VAN DOREN E.**
 
 **1. Second Order  Underdamped System**
 
