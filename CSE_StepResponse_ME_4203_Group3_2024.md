@@ -282,11 +282,13 @@ LABORATORY 2: STEP RESPONSE
 
   
   **Step Response**
+![image](https://github.com/Lenyilagan/G_3_Assignment_2024/assets/160506092/e0e3f6a4-01f2-4f13-bfc9-6a2c6770a924)
 
   
 
     
   **Simulink Model**
+![image](https://github.com/Lenyilagan/G_3_Assignment_2024/assets/160506092/e9f6511c-999f-46a4-985d-088c02ca15af)
 
 
 
@@ -294,6 +296,7 @@ LABORATORY 2: STEP RESPONSE
 
    **Scope Response**
 
+![image](https://github.com/Lenyilagan/G_3_Assignment_2024/assets/160506092/f1534f36-578f-476c-9a79-7edd4a525a90)
 
 
    **8. Nonlinear System Approxination**
