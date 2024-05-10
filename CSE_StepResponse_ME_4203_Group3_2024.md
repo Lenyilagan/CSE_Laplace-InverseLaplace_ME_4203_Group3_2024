@@ -75,17 +75,14 @@ LABORATORY 2: STEP RESPONSE
   
   **Step Response**
 
-    ![Malibiran, Mark Van Doren E._No.2](https://github.com/Lenyilagan/G_3_Assignment_2024/assets/161393545/168a0236-7dbe-43af-aba1-c0dbd49468db)
 
     
   **Simulink Model**
 
-    ![Malibiran, Mark Van Doren E._No.2](https://github.com/Lenyilagan/G_3_Assignment_2024/assets/161393545/0299384f-3d80-49ea-8d50-81e6203446f5)
 
 
    **Scope Response**
 
-    ![Malibiran, Mark Van Doren E._No.2](https://github.com/Lenyilagan/G_3_Assignment_2024/assets/161393545/5f48d34d-dccc-44d8-b45c-66d38090ceb1)
 
 
 **MAGBOJOS, CHERMILYN F.**
