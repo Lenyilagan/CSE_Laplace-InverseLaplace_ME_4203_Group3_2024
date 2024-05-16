@@ -101,7 +101,6 @@ Code Results
     
      
     f5 =
-     
     5*exp(2*t) - 4*cos(3*t)
      
     exp(2 t) 5 - cos(3 t) 4
