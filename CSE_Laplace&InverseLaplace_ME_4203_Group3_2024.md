@@ -149,7 +149,6 @@ Code Results
     
      
     f8 =
-     
     (10*t)/3 + (5*exp(-t))/2 + (5*exp(-3*t))/18 - 25/9
      
     10 t   5 exp(-t)   exp(-3 t) 5   25
