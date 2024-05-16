@@ -35,7 +35,6 @@ CODE (Assignment 1, I)
 Code Results
 
     F1 =
-     
     10/(s^2 + 4) - 1/(s + 3) + 3/s
      
       10       1     3
