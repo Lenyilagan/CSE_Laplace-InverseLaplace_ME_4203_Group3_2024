@@ -90,9 +90,7 @@ CODE (Assignment 1, II)
 Code Results
 
     F4 =
-     
     (s^2 - 3*s + 8)/s^3
-     
      
     f4 =
      
