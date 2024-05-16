@@ -124,10 +124,11 @@ CODE (Assignment 2)
     syms s, syms t
     
     %% Assignment 2
-    
+
     F7 = 1 / (s*(s^2 + 2*s + 2));
     f7 = ilaplace(F7)
     pretty(f7)
+
     
     F8 = (5*(s + 2)) / ((s^2)*(s + 1)*(s + 3));
     f8 = ilaplace(F8)
