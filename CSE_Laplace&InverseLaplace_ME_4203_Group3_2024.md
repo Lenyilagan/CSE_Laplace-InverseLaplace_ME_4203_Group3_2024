@@ -156,7 +156,6 @@ Code Results
     
      
     f9 =
-     
     2*dirac(t) - 3*exp(-t) + dirac(1, t) + dirac(2, t) + 5
      
     2 dirac(t) - 3 exp(-t) + dirac'(t) + dirac''(t) + 5
