@@ -105,8 +105,7 @@ Code Results
     exp(2 t) 5 - cos(3 t) 4
     
      
-    f6 =
-     
+    f6 =  
     (7*6^(1/2)*sin(6^(1/2)*t))/6
      
     7 sqrt(6) sin(sqrt(6) t)
