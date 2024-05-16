@@ -141,7 +141,6 @@ CODE (Assignment 2)
 Code Results
 
     f7 =
-     
     1/2 - (exp(-t)*(cos(t) + sin(t)))/2
      
     1   exp(-t) (cos(t) + sin(t))
